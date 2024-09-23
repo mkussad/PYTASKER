@@ -1,6 +1,4 @@
 # PYTASKER
-#### Video Demo: https://youtu.be/_8dsEVdcefY
-
 
 #### Description:
 
