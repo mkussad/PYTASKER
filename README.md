@@ -39,8 +39,3 @@ The PYTASKER project is a Python-based application that provides a simple comman
 - Adding user authentication for multi-user functionality.
 - Enhancing the testing suite to cover additional edge cases and scenarios.
 
-## Acknowledgments:
-
-This project was developed as part of CS50’s Introduction to Programming with Python. Special thanks to David J. Malan for guidance and support throughout the development process.
-
-Feel free to explore and contribute to the project to make it even more robust and feature-rich!
